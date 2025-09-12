@@ -6,4 +6,4 @@ Team Resistance is based in Jacksonville, Florida, and we are one of the few org
 
 *Going against the current since 1996!*!
 
-[Image of Team Resistance's 2025 Robot in a match](2025-tally-blur-shrunk.png)
+![Image of Team Resistance's 2025 Robot in a match](2025-tally-blur-shrunk.png)
